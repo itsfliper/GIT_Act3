@@ -6,3 +6,5 @@
 * Aquaman
 * Mujer Maravilla
 * Flash
+* Cyborg
+* Vibe
